@@ -1,0 +1,16 @@
+attribute,role,distinct_values,missing_values,distinction,separation,top_values
+age,Quasi-identifier,73,0,0.002242,0.978678,36=898; 31=888; 34=886
+workclass,Quasi-identifier,9,1836,0.000276,0.497130,Private=22696; Self-emp-not-inc=2541; Local-gov=2093
+fnlwgt,Insensitive/excluded,21648,0,0.664844,0.999962,123011=13; 164190=13; 203488=13
+education,Quasi-identifier,16,0,0.000491,0.809605,HS-grad=10501; Some-college=7291; Bachelors=5355
+education-num,Insensitive/excluded,16,0,0.000491,0.809605,9=10501; 10=7291; 13=5355
+marital-status,Quasi-identifier,7,0,0.000215,0.660129,Married-civ-spouse=14976; Never-married=10683; Divorced=4443
+occupation,Quasi-identifier,15,1843,0.000461,0.902887,Prof-specialty=4140; Craft-repair=4099; Exec-managerial=4066
+relationship,Quasi-identifier,6,0,0.000184,0.732145,Husband=13193; Not-in-family=8305; Own-child=5068
+race,Quasi-identifier,5,0,0.000154,0.259841,White=27816; Black=3124; Asian-Pac-Islander=1039
+sex,Quasi-identifier,2,0,0.000061,0.442753,Male=21790; Female=10771
+capital-gain,Sensitive,119,0,0.003655,0.159318,0=29849; 15024=347; 7688=284
+capital-loss,Sensitive,92,0,0.002825,0.091015,0=31042; 1902=202; 1977=168
+hours-per-week,Quasi-identifier,94,0,0.002887,0.762472,40=15217; 50=2819; 45=1824
+native-country,Quasi-identifier,42,583,0.001290,0.196558,United-States=29170; Mexico=643; ?=583
+income,Sensitive,2,0,0.000061,0.365652,<=50K=24720; >50K=7841

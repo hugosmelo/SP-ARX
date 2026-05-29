@@ -1,2 +1,0 @@
-qid_set,rows,equivalence_classes,unique_rows,fraction_unique,min_class_size,max_prosecutor_risk,average_equivalence_risk
-"age, workclass, education, marital-status, occupation, relationship, race, sex, hours-per-week, native-country",32561,27515,24802,0.761709,1,1.000000,0.845029

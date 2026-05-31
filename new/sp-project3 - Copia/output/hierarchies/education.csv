@@ -1,0 +1,16 @@
+Preschool,Basic-Education,Without-Higher-Education,*
+1st-4th,Basic-Education,Without-Higher-Education,*
+5th-6th,Basic-Education,Without-Higher-Education,*
+7th-8th,Basic-Education,Without-Higher-Education,*
+9th,High-School,Without-Higher-Education,*
+10th,High-School,Without-Higher-Education,*
+11th,High-School,Without-Higher-Education,*
+12th,High-School,Without-Higher-Education,*
+HS-grad,High-School,Without-Higher-Education,*
+Some-college,Undergrad,Higher-Education,*
+Assoc-voc,Undergrad,Higher-Education,*
+Assoc-acdm,Undergrad,Higher-Education,*
+Bachelors,Undergrad,Higher-Education,*
+Masters,Postgrad,Higher-Education,*
+Prof-school,Postgrad,Higher-Education,*
+Doctorate,Postgrad,Higher-Education,*

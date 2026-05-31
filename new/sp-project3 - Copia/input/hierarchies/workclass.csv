@@ -1,0 +1,9 @@
+?,{?},"{?, Federal-gov}","{?, Federal-gov, Local-gov, Never-worked, Private, Self-emp-inc}",*
+Federal-gov,{Federal-gov},"{?, Federal-gov}","{?, Federal-gov, Local-gov, Never-worked, Private, Self-emp-inc}",*
+Local-gov,{Local-gov},"{Local-gov, Never-worked}","{?, Federal-gov, Local-gov, Never-worked, Private, Self-emp-inc}",*
+Never-worked,{Never-worked},"{Local-gov, Never-worked}","{?, Federal-gov, Local-gov, Never-worked, Private, Self-emp-inc}",*
+Private,{Private},"{Private, Self-emp-inc}","{?, Federal-gov, Local-gov, Never-worked, Private, Self-emp-inc}",*
+Self-emp-inc,{Self-emp-inc},"{Private, Self-emp-inc}","{?, Federal-gov, Local-gov, Never-worked, Private, Self-emp-inc}",*
+Self-emp-not-inc,{Self-emp-not-inc},"{Self-emp-not-inc, State-gov}","{Self-emp-not-inc, State-gov, Without-pay}",*
+State-gov,{State-gov},"{Self-emp-not-inc, State-gov}","{Self-emp-not-inc, State-gov, Without-pay}",*
+Without-pay,{Without-pay},{Without-pay},"{Self-emp-not-inc, State-gov, Without-pay}",*

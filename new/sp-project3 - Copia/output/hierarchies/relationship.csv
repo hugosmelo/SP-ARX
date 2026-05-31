@@ -1,0 +1,6 @@
+Husband,"{Husband, Wife}","{Husband, Wife, Other-relative, Unmarried}",*
+Wife,"{Husband, Wife}","{Husband, Wife, Other-relative, Unmarried}",*
+Other-relative,"{Other-relative, Unmarried}","{Husband, Wife, Other-relative, Unmarried}",*
+Unmarried,"{Other-relative, Unmarried}","{Husband, Wife, Other-relative, Unmarried}",*
+Own-child,"{Own-child, Not-in-family}","{Own-child, Not-in-family}",*
+Not-in-family,"{Own-child, Not-in-family}","{Own-child, Not-in-family}",*

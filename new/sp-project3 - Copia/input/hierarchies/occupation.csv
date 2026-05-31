@@ -1,0 +1,15 @@
+Adm-clerical,Non-Manual,*
+Exec-managerial,Non-Manual,*
+Prof-specialty,Non-Manual,*
+Sales,Non-Manual,*
+Tech-support,Non-Manual,*
+Craft-repair,Manual,*
+Farming-fishing,Manual,*
+Handlers-cleaners,Manual,*
+Machine-op-inspct,Manual,*
+Transport-moving,Manual,*
+Other-service,Service,*
+Priv-house-serv,Service,*
+Protective-serv,Service,*
+Armed-Forces,Other,*
+?,Other,*
